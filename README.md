@@ -1,0 +1,1 @@
+A simple project to establish the understanding of Git commits, basic HTML structure, and learning to properly manage a repository.
